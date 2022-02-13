@@ -1,6 +1,7 @@
 library(tidyverse)
 library(readxl)
 beer=read_excel("beer.xlsx")
+write.csv(beer, "beer.csv")
 
 
 beer=beer%>%mutate(diff=MyRating-GlobalRating,

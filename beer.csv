@@ -1,0 +1,259 @@
+"","Brewery","Beer","Style","ABV","IBU","MyRating","GlobalRating","Date"
+"1","Badger","Pickled Partridge","Ale - Light",4.5,NA,3.75,3.36,2019-12-29
+"2","Badger","Furstey Ferret","Bitter",4.4,NA,4.25,3.4,2019-12-29
+"3","Huyghe","Fruli Strawberry","Fruit",4.1,8,3,3.67,2020-01-07
+"4","Ringwood","Forty Niner","Ale - Light",4.9,NA,3.25,3.41,2020-01-09
+"5","Camden","Hells Lager","Lager",4.6,24,2.75,3.23,2020-01-13
+"6","Cascade","Tropical Embers","Sour",7.3,NA,4.5,3.95,2020-01-13
+"7","Northern Monk","Eternal","Pale Ale",4.1,45,3.75,3.64,2020-01-13
+"8","Kernal","Saison","Ale - Light",4.9,NA,3.5,3.59,2020-01-13
+"9","Siren Craft","Broken Dream","Stout/Porter",6.5,NA,4,3.85,2020-01-13
+"10","Jennings","Atomic Theory","Pale Ale",3.8,NA,2.75,3.12,2020-01-15
+"11","MBH Mobberley","Bunji","Pale Ale",3.8,NA,3,3.29,2020-01-16
+"12","Marstons","Old Empire","Pale Ale",5.7,35,3.5,3.28,2020-01-16
+"13","Aldi","Brasserie","Lager",4,NA,2.5,2.68,2020-01-19
+"14","Fyne","Jarl","Ale - Light",3.8,40,3.5,3.59,2020-01-24
+"15","Holt","Diamond","Lager",5,20,3.75,3.18,2020-01-24
+"16","Aldi","Galahad","Lager",4,NA,2,2.65,2020-01-24
+"17","Tesco","Ashfield","Lager",3.8,NA,1.75,2.51,2020-01-24
+"18","Mondo","Jenny Jenny","Ale - Light",4,NA,3.5,3.07,2020-01-26
+"19","Bootleg","Chorlton","Pale Ale",4,NA,3.25,3.25,2020-01-29
+"20","Camden","Hells in Hibernation","Lager",4.6,28,4,3.42,2020-01-29
+"21","Westmalle","Trappist Dubbel","Ale - Dark",7,24,4.25,3.71,2020-01-30
+"22","Saltaire","Cascade","Pale Ale",4.8,NA,3.25,3.51,2020-02-03
+"23","Wiley Fox","Dark Flagon","Stout/Porter",4.4,NA,3.75,3.69,2020-02-03
+"24","Marstons","61 Deep","Pale Ale",3.8,NA,3.5,3.33,2020-02-06
+"25","Lowenbrau","Franziskaner","Wheat Beer",5,12,4,3.7,2020-02-07
+"26","Bank's","Amber Bitter","Bitter",3.8,NA,2.5,3.14,2020-02-07
+"27","Kansas","Red Aviator","Ale - Dark",3.6,NA,2.75,2.92,2020-02-14
+"28","Alhambra","Alhambra","Lager",5.4,17,3.25,3.04,2020-02-28
+"29","Damm","Rosa Blanca","Lager",4.8,20,4,3.48,2020-02-28
+"30","Harviestoun","Broken Dial","Ale - Dark",4.5,60,3.25,3.42,2020-03-10
+"31","Enefeld","Iron Brew","Ale - Dark",4.2,35,3,3.22,2020-03-12
+"32","Tillingbourne","Hop troll","Pale Ale",4.8,NA,3.5,3.59,2020-03-14
+"33","Anheauser-Busch","Budweiser","Lager",5,12,4,2.58,2020-03-18
+"34","Blue Moon","Belgian White","Wheat Beer",5.4,9,3.75,3.5,2020-03-19
+"35","Guinness","West Indies Porter","Stout/Porter",6,50,4,3.58,2020-04-10
+"36","Theakston","Old Peculier","Ale - Dark",5.6,23,3.75,3.61,2020-04-23
+"37","Dark Star","Hophead","Ale - Light",3.8,50,2.5,3.49,2020-05-14
+"38","Brewdog","Punk IPA","Pale Ale",5.2,35,4,3.75,2020-05-15
+"39","Brightside","IPA","Pale Ale",5,NA,3.5,3.33,2020-07-10
+"40","Shipyard","American Pale Ale","Pale Ale",4.5,55,3.75,3.39,2020-07-16
+"41","Wychwood","Hobgoblin","Ale - Dark",5.2,32,2.75,3.43,2020-07-16
+"42","Hydes","Hokkaido","Ale - Light",4,NA,3,3.26,2020-07-17
+"43","Brooklyn","Defender","Pale Ale",5.5,50,3.25,3.47,2020-07-29
+"44","Vocation","Pride & Joy","Pale Ale",5.3,NA,3.5,3.66,2020-08-03
+"45","Fourpure","Juicebox Citrus","Pale Ale",5.9,56,2.5,3.67,2020-08-05
+"46","Williams Bros","Studio 54","Pale Ale",5.5,50,1.5,3.31,2020-08-06
+"47","Aldi","Shake the tree","Pale Ale",4.2,NA,1.75,2.87,2020-08-06
+"48","Williams Bros","Leon","Pale Ale",4.4,32,2.25,3.15,2020-08-06
+"49","Innis & Gunn","Mangoes on the Run","Pale Ale",5.6,45,3.5,3.44,2020-08-06
+"50","London Beer Factory","Hazey Daze","Pale Ale",4.6,20,4,3.49,2020-08-07
+"51","Fourpure","Hemisphere","Pale Ale",4.2,33,3.5,3.52,2020-08-08
+"52","London Beer Factory","Sour Solstice","Sour",4.8,NA,4.25,3.54,2020-08-11
+"53","Innis & Gunn","Tropic Like its hot","Pale Ale",4.4,NA,3.25,3.28,2020-08-13
+"54","Aldi","Hacienda/Warehouse","Pale Ale",4.8,40,3.5,3.29,2020-08-13
+"55","Northern Monk","Faith","Pale Ale",5.4,30,3.75,3.79,2020-08-16
+"56","Helmsley","Yorkshire Legend","Bitter",3.8,NA,3.5,3.44,2020-08-18
+"57","Hasket Newmarket","Black Sail","Stout/Porter",4,NA,4,3.59,2020-08-23
+"58","Tractor Shed","Whistling Pig Pilsner","Lager",5,NA,3,3.5,2020-08-23
+"59","thwaites","Original","Bitter",3.6,NA,2.75,3.19,2020-08-24
+"60","thwaites","Mild","Ale - Light",3.3,NA,3.75,3.33,2020-08-24
+"61","Magic Rock","Dark Arts","Stout/Porter",6,NA,2.75,3.69,2020-08-26
+"62","Holt","Black","Ale - Dark",3.4,NA,3.5,3.29,2020-08-27
+"63","Holt","Trailblazer","Stout/Porter",4.3,24,4,3.52,2020-08-27
+"64","Thornbridge","Florida Weisse","Sour",4.5,NA,3,3.53,2020-08-28
+"65","Aldi","Anti Establishment IPA","Pale Ale",5.6,NA,3.25,3.26,2020-08-31
+"66","Bootleg","Spin Doctor","Lager",4.8,NA,2.5,3.4,2020-09-03
+"67","London Beer Factory","Big Milk","Stout/Porter",7.5,NA,4.25,3.69,2020-09-04
+"68","Wild Card","India Pale Ale","Pale Ale",5.5,NA,3.75,3.52,2020-09-08
+"69","Northern Monk","New World","Pale Ale",6.2,50,3.5,3.71,2020-09-09
+"70","Brewdog","Dead Pony Club","Pale Ale",3.8,35,3,3.56,2020-09-14
+"71","Backyard","Shed Head","Pale Ale",4.6,NA,3,3.28,2020-09-15
+"72","Thornbridge","Jaipur","Pale Ale",5.9,55,3.5,3.62,2020-09-15
+"73","Hydes","Portugese Bock","Ale - Light",5,NA,3.25,3.52,2020-09-15
+"74","Brewdog","Layer Cake","Stout/Porter",7,20,3.5,3.79,2020-09-18
+"75","Magic Rock","Saucery","Pale Ale",3.9,NA,2.75,3.57,2020-09-23
+"76","Robinsons","Hopnik Citra","Pale Ale",4.7,NA,3,3.42,2020-09-26
+"77","Chimay","Chimay Premiere","Ale - Dark",7,19,3.75,3.75,2020-09-26
+"78","Strawberry Lambicus","Timmermans","Fruit",4,NA,3.5,3.55,2020-09-26
+"79","Brouwerij Bosteles","Pauwel Kwak","Pale Ale",8.4,20,4,3.79,2020-09-26
+"80","Beer Studio","Rasberry Rascal","Ale - Light",4.6,NA,3,3.08,2020-09-26
+"81","Robinsons","Trooper","Bitter",4.7,35,4,3.37,2020-09-29
+"82","Sierra Nevada","Hazy Little thing","Pale Ale",4.6,25,3.75,3.59,2020-09-29
+"83","Brewdog","Hazy Jane","Pale Ale",5,NA,3.5,3.72,2020-10-11
+"84","10 4","India Pale Lager","Lager",4.1,NA,3,3.04,2020-10-20
+"85","Gipsy Hill","Ranger","Pale Ale",4.2,NA,4,3.44,2020-10-22
+"86","Gipsy Hill","Hepcat","Pale Ale",4.6,NA,4.25,3.66,2020-10-22
+"87","10 4","Brut IPA","Pale Ale",5.8,NA,3.5,2.94,2020-10-23
+"88","Brewdog","ALD IPA","Pale Ale",4.7,NA,3.75,3.43,2020-10-30
+"89","Sierra Nevada","California IPA","Pale Ale",4.2,35,3.75,3.49,2020-11-03
+"90","Blue Moon","Mango Wheat","Wheat Beer",5.4,19,4.5,3.54,2020-11-06
+"91","Vocation","Hop, Skip & Juice","Pale Ale",5.7,NA,3.25,3.8,2020-11-07
+"92","Brewdog","Elvis Juice","Pale Ale",6.5,40,3.75,3.75,2020-11-07
+"93","Magic Rock","Murk-Life Balance","Pale Ale",5,NA,2.75,3.62,2020-11-09
+"94","Camden","Off Menu","Pale Ale",5.8,40,3.25,3.6,2020-11-12
+"95","Innis & Gunn","Original","Ale - Light",6.6,18,3.25,3.56,2020-11-20
+"96","Five Points","Five Points Pale","Pale Ale",4.4,50,3.25,3.56,2020-11-25
+"97","Bath","Gem","Bitter",4.1,NA,2.75,3.44,2020-11-26
+"98","Black Sheep","Milk Stout/Porter","Stout/Porter",4.4,NA,4.5,3.53,2020-11-27
+"99","Oakham","Citra","Ale - Light",4.2,NA,3,3.64,2020-11-28
+"100","Wychwood","King Goblin","Ale - Dark",6.6,23,3.25,3.59,2020-11-28
+"101","North","Ornament","Pale Ale",4.1,NA,2.75,3.42,2020-11-29
+"102","G. Menabrea & Figli","Menabrea Bionda","Lager",4.8,20,2.5,3.22,2020-12-11
+"103","Williams Bros","Brel","Pale Ale",5.7,25,3.75,3.26,2020-12-12
+"104","Asahi","Asahi Super Dry","Lager",5,20,2.75,3.08,2020-12-13
+"105","Bowland","Phesant Plucker","Bitter",3.7,NA,3.75,3.39,2020-12-16
+"106","Bowland","Hen Harrier","Ale - Light",4,NA,2.25,3.47,2020-12-17
+"107","Seven Bro7hers","Hoppy Pale","Pale Ale",3.8,NA,3,3.54,2020-12-17
+"108","Shindigger","Mango Unchained","Pale Ale",4.2,NA,4,3.62,2020-12-17
+"109","John Smith's","Extra Smooth","Bitter",3.6,NA,2.25,2.81,2020-12-22
+"110","Hogs Back","TEA","Ale - Light",4.2,NA,3.75,3.4,2020-12-24
+"111","Brewdog","BrewDog VS Cloudwater: New England IPA","Pale Ale",6.8,45,3.5,4,2021-01-08
+"112","Seven Bro7hers","Easy IPA","Pale Ale",4.7,NA,2.5,3.57,2021-01-20
+"113","Bowland","Buster IPA","Pale Ale",4.5,NA,3.75,3.44,2021-01-20
+"114","Pressure Drop","Pale Fire","Pale Ale",4.8,NA,4,3.73,2021-01-24
+"115","St Bernabus","Abt 12","Ale - Dark",10,22,4,4.03,2021-01-28
+"116","Cloudwater","Step Up","Stout/Porter",5,NA,3.75,3.69,2021-01-29
+"117","Torrside","Discretion","Ale - Light",3.9,NA,4,3.76,2021-02-03
+"118","Thirst Class","Everybody else is doing it so why cant we","Sour",4.5,NA,4.25,3.65,2021-02-04
+"119","John Martin & Timmermans","Framboise Lambicus","Fruit",4,NA,3.5,3.49,2021-02-05
+"120","Seven Bro7hers","Lager","Lager",4.3,NA,3.5,3.36,2021-02-19
+"121","Brew York","Albus Crumbledore","Sour",6,NA,4.5,3.97,2021-04-01
+"122","Seven Bro7hers","Water Melon Wheat","Wheat Beer",4.5,NA,2.25,3.43,2021-04-01
+"123","Northern Monk","Salted caramel Star","Stout/Porter",5.2,NA,4.25,3.89,2021-04-02
+"124","Aldi","Stout/Porter About It","Stout/Porter",5.2,NA,4,3.23,2021-04-06
+"125","Drop Project","Ten Eighty","Pale Ale",8,NA,3.75,4.01,2021-04-10
+"126","Shindigger","PINA","Wheat Beer",5.2,NA,2.5,3.65,2021-04-28
+"127","Shindigger","Session","Pale Ale",4.2,NA,3.5,3.6,2021-04-28
+"128","Ralf + Alf","Hopster Blonde","Ale - Light",3.8,NA,3,3.35,2021-05-05
+"129","Damm","Estrella","Lager",5.4,21,3,3.1,2021-05-05
+"130","Brewdog","Model Citizen","Pale Ale",6.8,NA,3.75,3.76,2021-05-17
+"131","Northern Monk","Eternal Waves","Pale Ale",4,NA,3.5,3.41,2021-05-22
+"132","MBH Mobberley","Loco Juice","Pale Ale",4.2,NA,3.25,3.57,2021-05-24
+"133","Chapter","13. Roadside Picnic","Sour",3.8,NA,2.5,3.52,2021-05-24
+"134","Wild Beer","Millionaire","Stout/Porter",4.7,14,4.75,3.7,2021-05-24
+"135","Vocation","Zagreb","Pale Ale",10,70,3.75,4.17,2021-05-29
+"136","Camerons","Stongarm","Ale - Dark",4,27,2.25,3.38,2021-05-30
+"137","Kona","Big wave","Ale - Light",4.4,21,3.75,3.52,2021-05-30
+"138","Vocation","Bread and Butter","Pale Ale",3.9,NA,3.25,3.58,2021-05-31
+"139","Efes","Draft","Lager",5,NA,2.75,3.09,2021-05-31
+"140","Vocation","TR-HOP-ICAL","Pale Ale",5.7,NA,3.25,3.64,2021-06-12
+"141","Brewdog","Southland","Pale Ale",5.3,39,3,3.54,2021-06-15
+"142","Vocation","15 Mile Round trip","Pale Ale",8,NA,3.25,3.88,2021-06-22
+"143","Northern Monk","Faith in Futures","Pale Ale",6.5,NA,3.25,3.9,2021-06-24
+"144","Cloudwater","Blossom in Fog Lane Park","Pale Ale",6,NA,3.25,4.03,2021-06-26
+"145","Cloudwater","I know you know we know","Stout/Porter",10,NA,4.75,4.04,2021-06-26
+"146","Seven Bro7hers","Sling it out Stout/Porter","Stout/Porter",5.5,NA,3.75,3.78,2021-06-26
+"147","London Beer Factory","Jungle Trip","Pale Ale",5.3,NA,3.25,3.66,2021-06-27
+"148","Arbor","Mosaic single hop","Pale Ale",6.8,NA,3.5,3.78,2021-06-30
+"149","Torrside","Bricks and Mortar","Ale - Dark",5.2,NA,3.75,3.96,2021-06-30
+"150","Blackjack","Kettle Sour","Sour",5,NA,3.5,3.53,2021-06-30
+"151","New Bristol","Cinder Toffee","Stout/Porter",4.5,NA,3.5,3.87,2021-07-03
+"152","Vault City","Blood Ornage Sour","Sour",7.2,NA,4,3.92,2021-07-03
+"153","First Chop","Pow","Pale Ale",4.5,NA,3,3.45,2021-07-03
+"154","Tiny Rebel","Clwb Tropicana","Pale Ale",5.5,40,3.75,3.81,2021-07-04
+"155","Tiny Rebel","Birra Colada","Pale Ale",4,NA,2.75,3.34,2021-07-05
+"156","Cloudwater","Session IPA","Pale Ale",4.5,NA,2.75,3.59,2021-07-06
+"157","Vocation","Love & Hate","Pale Ale",7.2,NA,3.75,3.84,2021-07-09
+"158","Salt","Ikat","Pale Ale",8,70,3.5,3.93,2021-07-10
+"159","Beavertown","Neck Oil","Pale Ale",4.3,31,3.75,3.66,2021-07-11
+"160","Lowenbrau","Original","Lager",5.2,19,2.25,3.15,2021-07-11
+"161","Carlsberg","San Miguel","Lager",5,4,2.25,2.96,2021-07-16
+"162","Deperados","Deperados","Lager",5.9,NA,3.5,3.23,2021-07-17
+"163","Brewdog","Mallow Laser Quest","Pale Ale",6,NA,3.75,3.65,2021-07-21
+"164","Squawk","Tyto","Stout/Porter",6.2,24,3.75,3.79,2021-07-23
+"165","Shiny","Mini Milkshake","Pale Ale",4.5,NA,3.5,3.86,2021-07-23
+"166","Beatniz","Blackcurrant Tash","Sour",5.2,NA,3,3.73,2021-07-23
+"167","Wild Beer","POGO","Fruit",4.1,20,3.5,3.66,2021-07-23
+"168","Pomona Island","Nigh Flight to Venus","Ale - Dark",7.4,NA,2.5,3.84,2021-07-23
+"169","Tiny Rebel","Cali American","Pale Ale",5.6,55,3,3.66,2021-07-23
+"170","Timmermans","Peche Lambicus","Fruit",4,NA,4.25,3.49,2021-07-30
+"171","Northern Whisper","Helles Fire","Lager",4,NA,3.5,3.33,2021-07-30
+"172","Brasserie d'Achouffe","Cherry Chouffe","Fruit",8,10,4.5,3.45,2021-07-30
+"173","Delirium","Red","Fruit",8,10,3.75,3.58,2021-07-30
+"174","Mikkeller","Hallo Ich Bin Berliner","Sour",3.7,NA,3.5,3.69,2021-08-04
+"175","Hydes","Provenance Lebelski","Pale Ale",4.4,NA,3.25,3.34,2021-08-08
+"176","Magic Rock","Ratio","Pale Ale",4.1,NA,2.75,3.44,2021-08-12
+"177","Northern Monk","Diviner Pale Ale","Pale Ale",4.6,NA,3,3.58,2021-08-12
+"178","Brewgooder","Moyo Juice","Pale Ale",3.9,NA,3.5,3.5,2021-08-17
+"179","Mantle","Cwrw Teifi","Bitter",4.5,NA,2.75,3.47,2021-08-27
+"180","Mantle","Rock Steady","Ale - Light",3.8,NA,2.5,3.41,2021-08-27
+"181","Kasteel","Rouge","Fruit",8,NA,4,3.57,2021-08-29
+"182","Cloudwater","The Light Grey One","Stout/Porter",8,NA,3.25,4.23,2021-08-29
+"183","Brewdog","El Floridita","Sour",6.5,7,3.75,3.81,2021-09-19
+"184","Brewdog","Triple Hazy","Pale Ale",9.5,45,3,3.85,2021-09-19
+"185","Brew York","Goose Willis","Sour",5.3,NA,3.75,3.77,2021-09-26
+"186","Alpha Delta","Vesta","Pale Ale",6.8,NA,3.25,3.74,2021-09-27
+"187","Fierce","Café Racer","Stout/Porter",6.5,25,4.25,3.83,2021-09-30
+"188","Tempest","Mexicake","Stout/Porter",11,70,3.75,4.02,2021-09-30
+"189","Fierce","Rhubarb","Pale Ale",4.6,NA,3.5,3.56,2021-09-30
+"190","Brew York","Tonkoko","Stout/Porter",4.3,NA,4.25,3.8,2021-09-30
+"191","Fierce","Heffen Heff","Wheat Beer",5,20,3.25,3.54,2021-09-30
+"192","Siren Craft","Nitro Pompelmocello","Sour",6,NA,4,3.7,2021-10-04
+"193","Burton Road","The Don","Bitter",3.8,NA,2,3.43,2021-10-07
+"194","Track","Another Lifetime","Pale Ale",8.5,NA,3.25,4.32,2021-10-08
+"195","Rudgate","York","Stout/Porter",5,NA,3,3.55,2021-10-14
+"196","Abbaye Notre-Dame de Saint-Remy","Trappist Rochefort 10","Ale - Dark",11.3,27,3.25,4.08,2021-10-22
+"197","Rivington","The Letter","Wheat Beer",4.2,NA,3,3.61,2021-10-27
+"198","Pomona Island","Factotum","Pale Ale",4,NA,3.25,3.68,2021-10-27
+"199","Shindigger","Festiva","Pale Ale",4.4,NA,3.75,3.68,2021-10-28
+"200","Vocation","Roll With It","Pale Ale",5.2,NA,3.5,3.78,2021-10-29
+"201","Pomona Island","Stack of Green Paper","Sour",6.5,NA,3.75,4.03,2021-10-30
+"202","Bristol","Milk Stout/Porter","Stout/Porter",4.5,NA,3,3.79,2021-10-30
+"203","Molton Coors","Cobra","Lager",4.5,17,2.75,2.92,2021-11-05
+"204","Meantime","London","Pale Ale",4.3,37,3,3.34,2021-11-05
+"205","Alpha Delta","Theia","Pale Ale",5,NA,2.75,3.76,2021-11-05
+"206","Almasty","Green","Pale Ale",4.5,NA,3.25,3.86,2021-11-05
+"207","Turning Point","Lucid Dream","Stout/Porter",5,NA,3.5,3.66,2021-11-06
+"208","Tiny Rebel","Electric Boogaloo","Pale Ale",4.5,30,2.75,3.65,2021-11-06
+"209","Lervig","House Party","Pale Ale",4,27,3,3.52,2021-11-06
+"210","Magic Rock","Magic 8 Ball","Ale - Dark",7,NA,3.25,3.83,2021-11-06
+"211","Tiny Rebel","Cali Pale","Pale Ale",5,NA,3.25,3.6,2021-11-14
+"212","Hydes","Dark Ruby","Ale - Dark",3.5,NA,2.5,3.55,2021-11-15
+"213","Hydes","Provenance California Red","Ale - Dark",5.2,NA,1.75,3.37,2021-11-15
+"214","Hydes","Provenance Munchen","Ale - Light",5,NA,2.75,3.43,2021-11-15
+"215","Kirkstall","Virtuous","Pale Ale",4.5,NA,3.5,3.52,2021-11-18
+"216","Kirkstall","Cat's Cradle","Sour",4.5,NA,3,3.66,2021-11-18
+"217","Hydes","Original","Bitter",3.8,NA,2,3.26,2021-11-20
+"218","Brewdog","Planet Pale","Pale Ale",4.3,45,3,3.41,2021-11-21
+"219","Vocation","Imperial Banana","Stout/Porter",11.4,NA,4.75,3.87,2021-11-26
+"220","Robinsons","Beardo","Pale Ale",6,NA,2.75,3.29,2021-12-01
+"221","Brewdog","Dogma","Ale - Dark",7.8,60,3.25,3.43,2021-12-01
+"222","Vocation","Heart and Soul","Pale Ale",4.4,NA,3.25,3.63,2021-12-06
+"223","Donkeystone","Javanilla","Stout/Porter",5,23,2.75,3.65,2021-12-09
+"224","Magic Rock","High Wire","Pale Ale",5.5,35,3.25,3.59,2021-12-09
+"225","Marble","Quince and Raspberry","Sour",4.1,NA,3,3.63,2021-12-14
+"226","Quantock","The Wolf","Pale Ale",3.8,NA,3.75,3.27,2021-12-17
+"227","Castle Rock","Harvest Pale","Ale - Light",3.8,NA,2.75,3.43,2021-12-18
+"228","Bass","Premium","Pale Ale",4.4,NA,2.75,3.43,2021-12-18
+"229","First Chop","USA","Pale Ale",4.5,NA,3,3.2,2022-01-03
+"230","Beatnikz Republic","Only Gig in Paris","Pale Ale",4.1,NA,3.25,3.48,2022-01-05
+"231","By the Horns","Doozie","Pale Ale",4.2,NA,3,3.28,2022-01-06
+"232","By the Horns","Headwave","Pale Ale",4,NA,2.75,3.23,2022-01-07
+"233","Flavourly","Freedom","Lager",4,NA,2.5,3.17,2022-01-09
+"234","Robinsons","Dizzy Blonde","Ale - Light",3.8,NA,3,3.28,2022-01-12
+"235","Vault City","Tropical Sour","Sour",5.2,NA,3.25,3.87,2022-01-14
+"236","Pictish","Porter","Stout/Porter",4.4,NA,3.5,3.67,2022-01-15
+"237","Cape Point","Pale Ale","Pale Ale",4.8,30,3,3.34,2022-01-15
+"238","Abbeydale","Heathen","Pale Ale",4.1,70,2.5,3.63,2022-01-15
+"239","Squawk","Otis","Pale Ale",3.9,NA,3,3.68,2022-01-15
+"240","Tiny Rebel","Stay Puft","Stout/Porter",5.2,30,3.5,3.74,2022-01-15
+"241","Timothy Taylor","Landlord","Ale - Light",4.3,38,3.25,3.54,2022-01-18
+"242","Vocation","Triple Vision","Pale Ale",10,NA,3.5,3.91,2022-01-21
+"243","La Choufe","Blond","Ale - Light",8,20,3.5,3.83,2022-01-22
+"244","Duvel","6,66%","Ale - Light",6.66,20,3,3.6,2022-01-22
+"245","Lefebvre","Blache de Bruxelles","Wheat Beer",4.5,18,3.75,3.56,2022-01-22
+"246","Shiny","Cherry Pi","Sour",6,NA,3.75,3.96,2022-01-29
+"247","Track","Made in the shade","Stout/Porter",5.6,NA,3,3.82,2022-01-29
+"248","Boddingtons","Pub Ale","Bitter",4.6,NA,3,3.38,2022-02-02
+"249","Titanic","Rasberry Pale","Ale - Light",4.7,36,3,3.45,2022-02-03
+"250","Stancill","Barnsley Bitter","Bitter",3.8,NA,3.5,3.42,2022-02-05
+"251","Arkell's","Kingsdown Special Ale","Bitter",5,NA,2.5,3.41,2022-02-05
+"252","Windsor & Eton","Father Thames","Bitter",5,NA,3.5,3.42,2022-02-05
+"253","Thornbridge","Green Mountain","Pale Ale",4.3,NA,2.75,3.65,2022-02-05
+"254","Wicked Weed","Serenity","Ale - Light",5.5,16,2.75,3.85,2022-02-05
+"255","Stancill","Blizzard","Pale Ale",4.5,NA,3.5,3.44,2022-02-05
+"256","Federation","A Wing and a Prayer","Pale Ale",4,NA,3,3.11,2022-02-12
+"257","ABK","Hefeweizen Anno 25","Wheat Beer",5.3,16,2.75,3.46,2022-02-12
+"258","Magic Rock","Electric Currant","Sour",4.6,NA,3.75,3.55,2022-02-12
